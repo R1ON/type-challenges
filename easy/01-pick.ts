@@ -15,6 +15,8 @@ const todo: TodoPreview = {
     completed: false,
 }
 
+export {}; // fix ts error: "Cannot redeclare block-scoped variable"
+
 // Task:
 // implement the built-in Pick<T, K> generic without using it.
 // Constructs a type by picking the set of properties K from T
