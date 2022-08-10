@@ -1,15 +1,15 @@
-type TupleToObject1<Type extends readonly any[], Key extends number = number> = {
+type MyTupleToObject1<Type extends readonly any[], Key extends number = number> = {
     [index in Type[Key]]: index;
 };
 
-type TupleToObject2<Type extends readonly any[]> = {
+type MyTupleToObject2<Type extends readonly any[]> = {
     [index in Type[number]]: index;
 };
 
 const tuple = ['tesla', 'model 3', 'model X', 'model Y'] as const
 
-type result = TupleToObject1<typeof tuple>;
-type result2 = TupleToObject2<typeof tuple>;
+type result = MyTupleToObject1<typeof tuple>;
+type result2 = MyTupleToObject2<typeof tuple>;
 
 export {}; // fix ts error: "Cannot redeclare block-scoped variable"
 
