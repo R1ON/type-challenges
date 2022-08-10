@@ -13,3 +13,4 @@ https://github.com/type-challenges/type-challenges
  - [Concat](https://github.com/R1ON/type-challenges/blob/main/easy/09-concat.ts)
  - [Includes](https://github.com/R1ON/type-challenges/blob/main/easy/10-includes.ts)
  - [Push](https://github.com/R1ON/type-challenges/blob/main/easy/11-push.ts)
+ - [Unshift](https://github.com/R1ON/type-challenges/blob/main/easy/12-unshift.ts)
