@@ -9,3 +9,4 @@ https://github.com/type-challenges/type-challenges
  - [Length-of-type](https://github.com/R1ON/type-challenges/blob/main/easy/05-length-of-tuple.ts)
  - [Exclude](https://github.com/R1ON/type-challenges/blob/main/easy/06-exclude.ts)
  - [Awaited](https://github.com/R1ON/type-challenges/blob/main/easy/07-awaited.ts)
+ - [If](https://github.com/R1ON/type-challenges/blob/main/easy/08-if.ts)
