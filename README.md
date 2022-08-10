@@ -16,4 +16,5 @@ https://github.com/type-challenges/type-challenges
  - [Unshift](https://github.com/R1ON/type-challenges/blob/main/easy/12-unshift.ts)
  - [Parameters](https://github.com/R1ON/type-challenges/blob/main/easy/13-parameters.ts)
 
-# Medium tasks:
+# ⌛ Medium tasks:
+ - [Get-return-type](https://github.com/R1ON/type-challenges/blob/main/medium/01-get-return-type.ts)
