@@ -12,3 +12,4 @@ https://github.com/type-challenges/type-challenges
  - [If](https://github.com/R1ON/type-challenges/blob/main/easy/08-if.ts)
  - [Concat](https://github.com/R1ON/type-challenges/blob/main/easy/09-concat.ts)
  - [Includes](https://github.com/R1ON/type-challenges/blob/main/easy/10-includes.ts)
+ - [Push](https://github.com/R1ON/type-challenges/blob/main/easy/11-push.ts)
