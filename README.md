@@ -18,3 +18,4 @@ https://github.com/type-challenges/type-challenges
 
 # ⌛ Medium tasks:
  - [Get-return-type](https://github.com/R1ON/type-challenges/blob/main/medium/01-get-return-type.ts)
+ - [Omit](https://github.com/R1ON/type-challenges/blob/main/medium/02-omit.ts)
