@@ -1,5 +1,6 @@
 // Task
 // For given a tuple, you need create a generic Length, pick the length of the tuple
+// https://github.com/type-challenges/type-challenges/blob/main/questions/00018-easy-tuple-length/README.md
 
 
 type MyLength<Array extends any[]> = Array['length'];

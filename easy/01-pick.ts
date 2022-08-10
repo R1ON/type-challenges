@@ -1,6 +1,7 @@
 // Task:
 // implement the built-in Pick<T, K> generic without using it.
 // Constructs a type by picking the set of properties K from T
+// https://github.com/type-challenges/type-challenges/blob/main/questions/00004-easy-pick/README.md
 
 type MyPick<Type, PickedData extends keyof Type> = {
     [key in PickedData]: Type[key];

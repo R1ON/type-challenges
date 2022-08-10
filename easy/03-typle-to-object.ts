@@ -1,5 +1,6 @@
 // Task:
 // Give an array, transform into an object type and the key/value must in the given array.
+// https://github.com/type-challenges/type-challenges/blob/main/questions/00011-easy-tuple-to-object/README.md
 
 type MyTupleToObject1<Type extends readonly any[], Key extends number = number> = {
     [index in Type[Key]]: index;

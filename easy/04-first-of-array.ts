@@ -1,5 +1,6 @@
 // Task
 // Implement a generic First<T> that takes an Array T and returns it's first element's type.
+// https://github.com/type-challenges/type-challenges/blob/main/questions/00014-easy-first/README.md
 
 type MyFirst<Array extends any[]> = Array[0];
 

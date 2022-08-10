@@ -10,3 +10,4 @@ https://github.com/type-challenges/type-challenges
  - [Exclude](https://github.com/R1ON/type-challenges/blob/main/easy/06-exclude.ts)
  - [Awaited](https://github.com/R1ON/type-challenges/blob/main/easy/07-awaited.ts)
  - [If](https://github.com/R1ON/type-challenges/blob/main/easy/08-if.ts)
+ - [Concat](https://github.com/R1ON/type-challenges/blob/main/easy/09-concat.ts)
