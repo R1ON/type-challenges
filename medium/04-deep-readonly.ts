@@ -14,20 +14,20 @@ type DeepReadonly<Type> = {
 
 type X = { 
     x: { 
-      a: 1
-      b: 'hi'
+        a: 1
+        b: 'hi'
     }
     y: 'hey'
-  }
+}
 
 
-  const obj: DeepReadonly<X> = {
+const obj: DeepReadonly<X> = {
     x: {
         a: 1,
         b: 'hi',
     },
     y: 'hey',
-  }
+}
 
 //   obj.x = 'test';   // Cannot assign to 'x' because it is a read-only property.
 //   obj.x.a = 'test'; // Cannot assign to 'a' because it is a read-only property.
