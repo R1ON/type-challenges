@@ -10,4 +10,4 @@ type Includes<Array extends any[], Element> = Element extends Array[number] ? tr
 type isPillarMen = Includes<['Kars', 'Esidisi', 'Wamuu', 'Santana'], 'Dio'> // false
 type isPillarMen2 = Includes<['Kars', 'Esidisi', 'Wamuu', 'Santana'], 'Kars'> // true
 
-export {}; // fix ts error: "Cannot redeclare block-scoped variable"
+export {};

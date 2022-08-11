@@ -3,7 +3,7 @@
 // Constructs a type with all properties of T set to readonly, meaning the properties of the constructed type cannot be reassigned.
 // https://github.com/type-challenges/type-challenges/blob/main/questions/00007-easy-readonly/README.md
 
-type MyReadonly<Type> = { readonly [key in keyof Type]: Type[key] };
+type MyReadonly<Type> = { readonly [i in keyof Type]: Type[i] };
 
 
 interface Todo {
@@ -19,4 +19,4 @@ const todo: MyReadonly<Todo> = {
 // todo.title = "Hello" // Cannot assign to 'title' because it is a read-only property.
 // todo.description = "barFoo" // Cannot assign to 'description' because it is a read-only property.
 
-export {}; // fix ts error: "Cannot redeclare block-scoped variable"
+export {};

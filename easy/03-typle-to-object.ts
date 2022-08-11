@@ -3,11 +3,11 @@
 // https://github.com/type-challenges/type-challenges/blob/main/questions/00011-easy-tuple-to-object/README.md
 
 type MyTupleToObject1<Type extends readonly any[], Key extends number = number> = {
-    [index in Type[Key]]: index;
+    [i in Type[Key]]: i;
 };
 
 type MyTupleToObject2<Type extends readonly any[]> = {
-    [index in Type[number]]: index;
+    [i in Type[number]]: i;
 };
 
 
@@ -19,4 +19,4 @@ type result = MyTupleToObject1<typeof tuple>;
 // { tesla: 'tesla', 'model 3': 'model 3', 'model X': 'model X', 'model Y': 'model Y'}
 type result2 = MyTupleToObject2<typeof tuple>; 
 
-export {}; // fix ts error: "Cannot redeclare block-scoped variable"
+export {};

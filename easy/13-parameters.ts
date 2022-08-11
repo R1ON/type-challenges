@@ -9,4 +9,4 @@ const foo = (arg1: string, arg2: number): void => {}
 
 type FunctionParamsType = MyParameters<typeof foo> // [arg1: string, arg2: number]
 
-export {}; // fix ts error: "Cannot redeclare block-scoped variable"
+export {};

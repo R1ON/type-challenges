@@ -8,4 +8,4 @@ type If<Condition extends boolean, First, Second> = Condition extends true ? Fir
 type A = If<true, 'a', 'b'>  // 'a'
 type B = If<false, 'a', 'b'> // 'b'
 
-export {}; // fix ts error: "Cannot redeclare block-scoped variable"
+export {};

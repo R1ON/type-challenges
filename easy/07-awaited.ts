@@ -9,4 +9,4 @@ type ExampleType = Promise<string>
 
 type Result = MyAwaited<ExampleType> // string
 
-export {}; // fix ts error: "Cannot redeclare block-scoped variable"
+export {};

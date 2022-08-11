@@ -11,4 +11,4 @@ type arr2 = [3, 2, 1]
 type head1 = MyFirst<arr1> // 'a'
 type head2 = MyFirst<arr2> // 3
 
-export {}; // fix ts error: "Cannot redeclare block-scoped variable"
+export {};

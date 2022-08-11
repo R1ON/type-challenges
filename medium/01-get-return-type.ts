@@ -14,4 +14,4 @@ const fn = (v: boolean) => {
 type a = MyReturnType<typeof fn> // "1 | 2"
 
 
-export {}; // fix ts error: "Cannot redeclare block-scoped variable"
+export {};

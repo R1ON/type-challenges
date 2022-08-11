@@ -13,4 +13,4 @@ type teslaLength = MyLength<tesla> // 4
 type spaceXLength = MyLength<spaceX> // 5
 
 
-export {}; // fix ts error: "Cannot redeclare block-scoped variable"
+export {};

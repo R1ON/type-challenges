@@ -3,14 +3,14 @@
 // Constructs a type by picking all properties from T and then removing K
 // https://github.com/type-challenges/type-challenges/blob/main/questions/00003-medium-omit/README.md
 
-type MyExclude<Type, ExcludedType> = Type extends ExcludedType ? never : Type;
+import { MyExclude } from '../easy/06-exclude';
 
 type MyOmit<Type, Keys> = {
-    [Key in MyExclude<keyof Type, Keys>]: Type[Key]
+    [i in MyExclude<keyof Type, Keys>]: Type[i]
 };
 
 type MyOmit2<Type, Keys> = {
-    [Key in keyof Type as Key extends Keys ? never : Key]: Type[Key]
+    [i in keyof Type as i extends Keys ? never : i]: Type[i]
 };
 
 
@@ -27,4 +27,4 @@ interface Todo {
     completed: false,
   }
 
-export {}; // fix ts error: "Cannot redeclare block-scoped variable"
+export {};

@@ -10,4 +10,4 @@ type Concat<First extends AnyArray, Second extends AnyArray> = [...First, ...Sec
 type Result = Concat<[1], [2]> // [1, 2]
 type Result2 = Concat<[1, 2, 3], [2]> // [1, 2, 3, 2]
 
-export {}; // fix ts error: "Cannot redeclare block-scoped variable"
+export {};
