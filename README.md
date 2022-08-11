@@ -53,4 +53,7 @@ https://github.com/type-challenges/type-challenges
     <a href="https://github.com/R1ON/type-challenges/blob/main/medium/02-omit.ts" target="_blank">
      <img src="https://img.shields.io/badge/Omit-d9901a" alt="Omit"/>
     </a>
+    <a href="https://github.com/R1ON/type-challenges/blob/main/medium/03-readonly.ts" target="_blank">
+     <img src="https://img.shields.io/badge/Readonly-d9901a" alt="Readonly"/>
+    </a>
 </div>

@@ -27,4 +27,4 @@ interface Todo {
     completed: false,
   }
 
-export {};
+export { MyOmit };
