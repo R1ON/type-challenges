@@ -59,4 +59,7 @@ https://github.com/type-challenges/type-challenges
     <a href="https://github.com/R1ON/type-challenges/blob/main/medium/04-deep-readonly.ts" target="_blank">
      <img src="https://img.shields.io/badge/Deep%20readonly-d9901a" alt="Deep readonly"/>
     </a>
+    <a href="https://github.com/R1ON/type-challenges/blob/main/medium/05-tuple-to-union.ts" target="_blank">
+     <img src="https://img.shields.io/badge/Tuple%20to%20union-d9901a" alt="Tuple to union"/>
+    </a>
 </div>
