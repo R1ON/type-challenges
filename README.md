@@ -45,7 +45,7 @@ https://github.com/type-challenges/type-challenges
     </a>
     <br/>
     <br/>
-    <img src="https://img.shields.io/badge/medium-6-d9901a" alt="68"/>
+    <img src="https://img.shields.io/badge/medium-8-d9901a" alt="68"/>
     <br/>
     <a href="https://github.com/R1ON/type-challenges/blob/main/medium/01-get-return-type.ts" target="_blank">
      <img src="https://img.shields.io/badge/Get%20return%20type-d9901a" alt="Get return type"/>
@@ -67,5 +67,8 @@ https://github.com/type-challenges/type-challenges
     </a>
     <a href="https://github.com/R1ON/type-challenges/blob/main/medium/07-last-of-array.ts" target="_blank">
      <img src="https://img.shields.io/badge/Last%20of%20Array-d9901a" alt="Last of Array"/>
+    </a>
+    <a href="https://github.com/R1ON/type-challenges/blob/main/medium/08-pop.ts" target="_blank">
+     <img src="https://img.shields.io/badge/Pop-d9901a" alt="Pop"/>
     </a>
 </div>
