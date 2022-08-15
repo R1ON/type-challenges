@@ -65,4 +65,7 @@ https://github.com/type-challenges/type-challenges
     <a href="https://github.com/R1ON/type-challenges/blob/main/medium/06-chainable-options.ts" target="_blank">
      <img src="https://img.shields.io/badge/Chainable%20Options-d9901a" alt="Chainable Options"/>
     </a>
+    <a href="https://github.com/R1ON/type-challenges/blob/main/medium/07-last-of-array.ts" target="_blank">
+     <img src="https://img.shields.io/badge/Last%20of%20Array-d9901a" alt="Last of Array"/>
+    </a>
 </div>
