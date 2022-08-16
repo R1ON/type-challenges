@@ -77,4 +77,7 @@ https://github.com/type-challenges/type-challenges
     <a href="https://github.com/R1ON/type-challenges/blob/main/medium/10-type-lookup.ts" target="_blank">
      <img src="https://img.shields.io/badge/Type%20Lookup-d9901a" alt="Type Lookup"/>
     </a>
+    <a href="https://github.com/R1ON/type-challenges/blob/main/medium/11-trim-left.ts" target="_blank">
+     <img src="https://img.shields.io/badge/Trim%20Left-d9901a" alt="Trim Left"/>
+    </a>
 </div>
