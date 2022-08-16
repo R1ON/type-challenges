@@ -45,7 +45,7 @@ https://github.com/type-challenges/type-challenges
     </a>
     <br/>
     <br/>
-    <img src="https://img.shields.io/badge/medium-9-d9901a" alt="68"/>
+    <img src="https://img.shields.io/badge/medium-10-d9901a" alt="10"/>
     <br/>
     <a href="https://github.com/R1ON/type-challenges/blob/main/medium/01-get-return-type.ts" target="_blank">
      <img src="https://img.shields.io/badge/Get%20return%20type-d9901a" alt="Get return type"/>
@@ -73,5 +73,8 @@ https://github.com/type-challenges/type-challenges
     </a>
     <a href="https://github.com/R1ON/type-challenges/blob/main/medium/09-promise-all.ts" target="_blank">
      <img src="https://img.shields.io/badge/Promise%20all-d9901a" alt="Promise all"/>
+    </a>
+    <a href="https://github.com/R1ON/type-challenges/blob/main/medium/10-type-lookup.ts" target="_blank">
+     <img src="https://img.shields.io/badge/Type%20Lookup-d9901a" alt="Type Lookup"/>
     </a>
 </div>
