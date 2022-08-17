@@ -10,3 +10,4 @@ type Trim<Str extends string> = TrimRight<TrimLeft<Str>>;
 type trimmed = Trim<'  Hello World  '> // 'Hello World'
 
 export {};
+type Test = Uppercase<
