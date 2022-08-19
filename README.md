@@ -45,7 +45,7 @@ https://github.com/type-challenges/type-challenges
     </a>
     <br/>
     <br/>
-    <img src="https://img.shields.io/badge/medium-16-d9901a" alt="16"/>
+    <img src="https://img.shields.io/badge/medium-17-d9901a" alt="17"/>
     <br/>
     <a href="https://github.com/R1ON/type-challenges/blob/main/medium/01-get-return-type.ts" target="_blank">
      <img src="https://img.shields.io/badge/Get%20return%20type-d9901a" alt="Get return type"/>
@@ -94,5 +94,8 @@ https://github.com/type-challenges/type-challenges
     </a>
     <a href="https://github.com/R1ON/type-challenges/blob/main/medium/16-append-argument.ts" target="_blank">
      <img src="https://img.shields.io/badge/Append%20Argument-d9901a" alt="Append Argument"/>
+    </a>
+    <a href="https://github.com/R1ON/type-challenges/blob/main/medium/17-permutation.ts" target="_blank">
+     <img src="https://img.shields.io/badge/Permutation-d9901a" alt="Permutation"/>
     </a>
 </div>
