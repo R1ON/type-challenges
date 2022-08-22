@@ -45,7 +45,7 @@ https://github.com/type-challenges/type-challenges
     </a>
     <br/>
     <br/>
-    <img src="https://img.shields.io/badge/medium-18-d9901a" alt="18"/>
+    <img src="https://img.shields.io/badge/medium-19-d9901a" alt="19"/>
     <br/>
     <a href="https://github.com/R1ON/type-challenges/blob/main/medium/01-get-return-type.ts" target="_blank">
      <img src="https://img.shields.io/badge/Get%20return%20type-d9901a" alt="Get return type"/>
@@ -100,5 +100,8 @@ https://github.com/type-challenges/type-challenges
     </a>
     <a href="https://github.com/R1ON/type-challenges/blob/main/medium/18-length-of-string.ts" target="_blank">
      <img src="https://img.shields.io/badge/Length%20of%20String-d9901a" alt="Length of String"/>
+    </a>
+    <a href="https://github.com/R1ON/type-challenges/blob/main/medium/19-flatten.ts" target="_blank">
+     <img src="https://img.shields.io/badge/Flatten-d9901a" alt="Flatten"/>
     </a>
 </div>
