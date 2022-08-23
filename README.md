@@ -45,7 +45,7 @@ https://github.com/type-challenges/type-challenges
     </a>
     <br/>
     <br/>
-    <img src="https://img.shields.io/badge/medium-20-d9901a" alt="20"/>
+    <img src="https://img.shields.io/badge/medium-21-d9901a" alt="21"/>
     <br/>
     <a href="https://github.com/R1ON/type-challenges/blob/main/medium/01-get-return-type.ts" target="_blank">
      <img src="https://img.shields.io/badge/Get%20return%20type-d9901a" alt="Get return type"/>
@@ -106,5 +106,8 @@ https://github.com/type-challenges/type-challenges
     </a>
     <a href="https://github.com/R1ON/type-challenges/blob/main/medium/20-append-to-object.ts" target="_blank">
      <img src="https://img.shields.io/badge/Append%20to%20Object-d9901a" alt="Append to Object"/>
+    </a>
+    <a href="https://github.com/R1ON/type-challenges/blob/main/medium/21-absolute.ts" target="_blank">
+     <img src="https://img.shields.io/badge/Absolute-d9901a" alt="Absolute"/>
     </a>
 </div>
