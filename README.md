@@ -45,7 +45,7 @@ https://github.com/type-challenges/type-challenges
     </a>
     <br/>
     <br/>
-    <img src="https://img.shields.io/badge/medium-22-d9901a" alt="22"/>
+    <img src="https://img.shields.io/badge/medium-23-d9901a" alt="23"/>
     <br/>
     <a href="https://github.com/R1ON/type-challenges/blob/main/medium/01-get-return-type.ts" target="_blank">
      <img src="https://img.shields.io/badge/Get%20return%20type-d9901a" alt="Get return type"/>
@@ -112,5 +112,8 @@ https://github.com/type-challenges/type-challenges
     </a>
     <a href="https://github.com/R1ON/type-challenges/blob/main/medium/22-string-to-union.ts" target="_blank">
      <img src="https://img.shields.io/badge/String%20to%20Union-d9901a" alt="String to Union"/>
+    </a>
+    <a href="https://github.com/R1ON/type-challenges/blob/main/medium/23-merge.ts" target="_blank">
+     <img src="https://img.shields.io/badge/Merge-d9901a" alt="Merge"/>
     </a>
 </div>
