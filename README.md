@@ -45,7 +45,7 @@ https://github.com/type-challenges/type-challenges
     </a>
     <br/>
     <br/>
-    <img src="https://img.shields.io/badge/medium-23-d9901a" alt="23"/>
+    <img src="https://img.shields.io/badge/medium-24-d9901a" alt="24"/>
     <br/>
     <a href="https://github.com/R1ON/type-challenges/blob/main/medium/01-get-return-type.ts" target="_blank">
      <img src="https://img.shields.io/badge/Get%20return%20type-d9901a" alt="Get return type"/>
@@ -115,5 +115,8 @@ https://github.com/type-challenges/type-challenges
     </a>
     <a href="https://github.com/R1ON/type-challenges/blob/main/medium/23-merge.ts" target="_blank">
      <img src="https://img.shields.io/badge/Merge-d9901a" alt="Merge"/>
+    </a>
+    <a href="https://github.com/R1ON/type-challenges/blob/main/medium/24-kebab-case.ts" target="_blank">
+     <img src="https://img.shields.io/badge/Kebab%20Case-d9901a" alt="Kebab Case"/>
     </a>
 </div>
