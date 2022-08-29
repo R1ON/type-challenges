@@ -45,7 +45,7 @@ https://github.com/type-challenges/type-challenges
     </a>
     <br/>
     <br/>
-    <img src="https://img.shields.io/badge/medium-24-d9901a" alt="24"/>
+    <img src="https://img.shields.io/badge/medium-26-d9901a" alt="26"/>
     <br/>
     <a href="https://github.com/R1ON/type-challenges/blob/main/medium/01-get-return-type.ts" target="_blank">
      <img src="https://img.shields.io/badge/Get%20return%20type-d9901a" alt="Get return type"/>
@@ -121,5 +121,8 @@ https://github.com/type-challenges/type-challenges
     </a>
     <a href="https://github.com/R1ON/type-challenges/blob/main/medium/25-diff.ts" target="_blank">
      <img src="https://img.shields.io/badge/Diff-d9901a" alt="Diff"/>
+    </a>
+    <a href="https://github.com/R1ON/type-challenges/blob/main/medium/26-any-of.ts" target="_blank">
+     <img src="https://img.shields.io/badge/Any%20of-d9901a" alt="Any of"/>
     </a>
 </div>
