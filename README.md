@@ -119,4 +119,7 @@ https://github.com/type-challenges/type-challenges
     <a href="https://github.com/R1ON/type-challenges/blob/main/medium/24-kebab-case.ts" target="_blank">
      <img src="https://img.shields.io/badge/Kebab%20Case-d9901a" alt="Kebab Case"/>
     </a>
+    <a href="https://github.com/R1ON/type-challenges/blob/main/medium/25-diff.ts" target="_blank">
+     <img src="https://img.shields.io/badge/Diff-d9901a" alt="Diff"/>
+    </a>
 </div>
