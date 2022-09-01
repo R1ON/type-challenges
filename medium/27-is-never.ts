@@ -12,4 +12,4 @@ type test5 = IsNever<null> // false
 type test6 = IsNever<[]> // false
 type test7 = IsNever<{}> // false
 
-export {};
+export { IsNever };
