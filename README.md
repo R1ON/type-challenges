@@ -45,7 +45,7 @@ https://github.com/type-challenges/type-challenges
     </a>
     <br/>
     <br/>
-    <img src="https://img.shields.io/badge/medium-28-d9901a" alt="28"/>
+    <img src="https://img.shields.io/badge/medium-29-d9901a" alt="29"/>
     <br/>
     <a href="https://github.com/R1ON/type-challenges/blob/main/medium/01-get-return-type.ts" target="_blank">
      <img src="https://img.shields.io/badge/Get%20return%20type-d9901a" alt="Get return type"/>
@@ -130,5 +130,8 @@ https://github.com/type-challenges/type-challenges
     </a>
     <a href="https://github.com/R1ON/type-challenges/blob/main/medium/28-is-union.ts" target="_blank">
      <img src="https://img.shields.io/badge/Is%20Union-d9901a" alt="Is Union"/>
+    </a>
+    <a href="https://github.com/R1ON/type-challenges/blob/main/medium/29-replace-keys.ts" target="_blank">
+     <img src="https://img.shields.io/badge/Replace%20Keys-d9901a" alt="Replace Keys"/>
     </a>
 </div>
