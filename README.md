@@ -45,7 +45,7 @@ https://github.com/type-challenges/type-challenges
     </a>
     <br/>
     <br/>
-    <img src="https://img.shields.io/badge/medium-30-d9901a" alt="30"/>
+    <img src="https://img.shields.io/badge/medium-31-d9901a" alt="31"/>
     <br/>
     <a href="https://github.com/R1ON/type-challenges/blob/main/medium/01-get-return-type.ts" target="_blank">
      <img src="https://img.shields.io/badge/Get%20return%20type-d9901a" alt="Get return type"/>
@@ -136,5 +136,8 @@ https://github.com/type-challenges/type-challenges
     </a>
     <a href="https://github.com/R1ON/type-challenges/blob/main/medium/30-remove-index-signature.ts" target="_blank">
      <img src="https://img.shields.io/badge/Remove%20Index%20Signature-d9901a" alt="Remove Index Signature"/>
+    </a>
+    <a href="https://github.com/R1ON/type-challenges/blob/main/medium/31-percentage-parser.ts" target="_blank">
+     <img src="https://img.shields.io/badge/Percentage%20Parser-d9901a" alt="Percentage Parser"/>
     </a>
 </div>
