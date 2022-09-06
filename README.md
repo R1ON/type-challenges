@@ -45,7 +45,7 @@ https://github.com/type-challenges/type-challenges
     </a>
     <br/>
     <br/>
-    <img src="https://img.shields.io/badge/medium-35-d9901a" alt="35"/>
+    <img src="https://img.shields.io/badge/medium-36-d9901a" alt="36"/>
     <br/>
     <a href="https://github.com/R1ON/type-challenges/blob/main/medium/01-get-return-type.ts" target="_blank">
      <img src="https://img.shields.io/badge/Get%20return%20type-d9901a" alt="Get return type"/>
@@ -151,5 +151,8 @@ https://github.com/type-challenges/type-challenges
     </a>
     <a href="https://github.com/R1ON/type-challenges/blob/main/medium/35-starts-with.ts" target="_blank">
      <img src="https://img.shields.io/badge/Starts%20With-d9901a" alt="Starts With"/>
+    </a>
+    <a href="https://github.com/R1ON/type-challenges/blob/main/medium/36-ends-with.ts" target="_blank">
+     <img src="https://img.shields.io/badge/Ends%20With-d9901a" alt="Ends With"/>
     </a>
 </div>

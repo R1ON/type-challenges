@@ -3,7 +3,8 @@
 // https://github.com/type-challenges/type-challenges/blob/main/questions/02688-medium-startswith/README.md
 
 // Simple
-type StartsWith2<First extends string, Second extends string> =  First extends `${Second}${string}` ? true : false;
+type StartsWith2<First extends string, Second extends string> =
+    First extends `${Second}${string}` ? true : false;
 
 // ----
 
@@ -23,7 +24,7 @@ type StringToArray<Str extends string, Data extends string[] = []> =
   Str extends `${infer First}${infer Other}`
     ? StringToArray<Other, [...Data, First]>
     : Data;
-    
+
 
 type test1 = StartsWith<'abc', 'ac'>; // false
 type test2 = StartsWith<'abc', 'ab'>; // true
