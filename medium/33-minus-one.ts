@@ -7,7 +7,7 @@ type MinusOne<Num extends number> = GetFilledArray<`${Num}`> extends [number, ..
   ? Other['length']
   : 0;
 
-type GetFilledArray<Str extends string, Data extends any[] = []> =
+type GetFilledArray<Str extends string, Data extends 1[] = []> =
   Str extends `${infer First extends keyof Dictionary}${infer Other}`
     ? GetFilledArray<Other, [...CopyDictionaryTenTimes<Data>, ...Dictionary[First]]>
     : Data;
