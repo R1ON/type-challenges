@@ -45,7 +45,7 @@ https://github.com/type-challenges/type-challenges
     </a>
     <br/>
     <br/>
-    <img src="https://img.shields.io/badge/medium-31-d9901a" alt="31"/>
+    <img src="https://img.shields.io/badge/medium-32-d9901a" alt="32"/>
     <br/>
     <a href="https://github.com/R1ON/type-challenges/blob/main/medium/01-get-return-type.ts" target="_blank">
      <img src="https://img.shields.io/badge/Get%20return%20type-d9901a" alt="Get return type"/>
@@ -139,5 +139,8 @@ https://github.com/type-challenges/type-challenges
     </a>
     <a href="https://github.com/R1ON/type-challenges/blob/main/medium/31-percentage-parser.ts" target="_blank">
      <img src="https://img.shields.io/badge/Percentage%20Parser-d9901a" alt="Percentage Parser"/>
+    </a>
+    <a href="https://github.com/R1ON/type-challenges/blob/main/medium/32-drop-char.ts" target="_blank">
+     <img src="https://img.shields.io/badge/Drop%20Char-d9901a" alt="Drop Char"/>
     </a>
 </div>
