@@ -45,7 +45,7 @@ https://github.com/type-challenges/type-challenges
     </a>
     <br/>
     <br/>
-    <img src="https://img.shields.io/badge/medium-37-d9901a" alt="37"/>
+    <img src="https://img.shields.io/badge/medium-38-d9901a" alt="38"/>
     <br/>
     <a href="https://github.com/R1ON/type-challenges/blob/main/medium/01-get-return-type.ts" target="_blank">
      <img src="https://img.shields.io/badge/Get%20return%20type-d9901a" alt="Get return type"/>
@@ -157,5 +157,8 @@ https://github.com/type-challenges/type-challenges
     </a>
     <a href="https://github.com/R1ON/type-challenges/blob/main/medium/37-partial-by-keys.ts" target="_blank">
      <img src="https://img.shields.io/badge/Partial%20by%20Keys-d9901a" alt="Partial by Keys"/>
+    </a>
+    <a href="https://github.com/R1ON/type-challenges/blob/main/medium/38-required-by-keys.ts" target="_blank">
+     <img src="https://img.shields.io/badge/Required%20by%20Keys-d9901a" alt="Required by Keys"/>
     </a>
 </div>
